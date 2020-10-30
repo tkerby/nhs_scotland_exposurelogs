@@ -1,0 +1,1149 @@
+{
+  "Build": "18A393",
+  "ExportVersion": 2,
+  "ExposureChecks": [
+    {
+      "Timestamp": "2020-10-05 22:48:17 +0100",
+      "Files": [
+        {
+          "Hash": "CC041E1C90D4FB17C5B28C24F9ED3BDCA276FE27DEF97FA7BB4B328BE084D176",
+          "MatchCount": 0,
+          "KeyCount": 23,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 22:48:17 +0100"
+        },
+        {
+          "Hash": "F89B6B80DC298B252AA27F4299610019F52345BBC22BD859B680035F79CD278B",
+          "MatchCount": 0,
+          "KeyCount": 37,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 22:48:17 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-05 17:53:58 +0100",
+      "Files": [
+        {
+          "Hash": "16FACC4C88E83EFAE0D7F2F9E4FC45BD5596709CBC930F33B003DAA84B7B6D3D",
+          "MatchCount": 0,
+          "KeyCount": 74,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 17:53:59 +0100"
+        },
+        {
+          "Hash": "03A17D8087A3DA27C2946D714111368AC74605F2F3891784E3CCD7AA734F31BC",
+          "MatchCount": 0,
+          "KeyCount": 91,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 17:53:58 +0100"
+        },
+        {
+          "Hash": "57D40DC9A8C589E572827932F81DBADFADB15BDF28A435EBAE63AC762E48DCDB",
+          "MatchCount": 0,
+          "KeyCount": 105,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 17:53:58 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-05 12:58:41 +0100",
+      "Files": [
+        {
+          "Hash": "EF617F97295809B14A6A5C59B6B6D48D6CDD971C3213DD859D0A2C03F3E7F57D",
+          "MatchCount": 0,
+          "KeyCount": 3,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 12:58:41 +0100"
+        },
+        {
+          "Hash": "73B6158C2E3389609D540E0496695B54A480DA76A064B5AA329287615F17389D",
+          "MatchCount": 0,
+          "KeyCount": 74,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 12:58:41 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-05 04:58:26 +0100",
+      "Files": [
+        {
+          "Hash": "76A6D0C01636EF7E05D62DF4036C4CC834DF59CA5A1E8AB0A1F51ED326B182AA",
+          "MatchCount": 0,
+          "KeyCount": 29,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 04:58:26 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-05 00:58:23 +0100",
+      "Files": [
+        {
+          "Hash": "F1DAB46FBF61E44CB3E857E2FCFD07D765EE1369EEAB7FCA29E63CE004EA575D",
+          "MatchCount": 0,
+          "KeyCount": 28,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-05 00:58:23 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-04 20:58:02 +0100",
+      "Files": [
+        {
+          "Hash": "35DE31160231638EC41E5AAED5D1E97F0246E94DA7E079D9620B7B88EE83A437",
+          "MatchCount": 0,
+          "KeyCount": 84,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 20:58:02 +0100"
+        },
+        {
+          "Hash": "03656815E8B691C035EBF60E75592F8117F9DF8B5F57F0E6FA4135BE441B18C0",
+          "MatchCount": 0,
+          "KeyCount": 55,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 20:58:02 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-04 16:54:30 +0100",
+      "Files": [
+        {
+          "Hash": "2F5CC5970A790C4740288DC0B97B6B31850F3920A53553481D50DF676009DBF3",
+          "MatchCount": 0,
+          "KeyCount": 81,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 16:54:30 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-04 13:30:03 +0100",
+      "Files": [
+        {
+          "Hash": "F0CE20631C8B4EBC8C7B9F0171D36C837894EB034A4709349DE5427208311F42",
+          "MatchCount": 0,
+          "KeyCount": 68,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 13:30:03 +0100"
+        },
+        {
+          "Hash": "69D41D4CC8B3B3BA78F83EAD7737CFA19E9B42793E823ECCC707EC8B1866F7CC",
+          "MatchCount": 0,
+          "KeyCount": 86,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 13:30:03 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-04 09:28:17 +0100",
+      "Files": [
+        {
+          "Hash": "457088124C2E2AC1D64CF0BB467DB676CFEF00B2E460C5B2E4681236F887AF6E",
+          "MatchCount": 0,
+          "KeyCount": 1,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 09:28:17 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-04 05:23:33 +0100",
+      "Files": [
+        {
+          "Hash": "2327FBDF010BE57D9DA2839C317789471DB06D1F736398D766FE65394B995FE6",
+          "MatchCount": 0,
+          "KeyCount": 34,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-04 05:23:33 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-03 21:21:57 +0100",
+      "Files": [
+        {
+          "Hash": "7720FA0E86394192E8523350DE3962A6EA7F4ADD409A930C0D63875B6C7CDC30",
+          "MatchCount": 0,
+          "KeyCount": 43,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 21:21:57 +0100"
+        },
+        {
+          "Hash": "1DD07E492DF35E6EAA87EA46BD1241544B0E51231E247BDFF67B590D17CE5270",
+          "MatchCount": 0,
+          "KeyCount": 98,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 21:21:57 +0100"
+        },
+        {
+          "Hash": "22B8BEDFEBD3737A7F6688095FA21A2409D7A821D7365F9B1775769D05C0C2AC",
+          "MatchCount": 0,
+          "KeyCount": 30,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 21:21:57 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-03 15:36:32 +0100",
+      "Files": [
+        {
+          "Hash": "07FA8AA52DBED88C279021C375D38A6D28E03227FAE8AFA3ED48F11D8C8D5A93",
+          "MatchCount": 0,
+          "KeyCount": 61,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 15:36:32 +0100"
+        },
+        {
+          "Hash": "6ED72075D23079DF16ACD7413E0AC8D3E3352DF59473CBBD9876530FA1455070",
+          "MatchCount": 0,
+          "KeyCount": 135,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 15:36:32 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-03 11:36:12 +0100",
+      "Files": [
+        {
+          "Hash": "88CD051E4E09C604D97092AFF8D720F0686588E2D21E87B44C13A44534E4E4C6",
+          "MatchCount": 0,
+          "KeyCount": 9,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 11:36:12 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-03 03:35:05 +0100",
+      "Files": [
+        {
+          "Hash": "E00F0D3348E075EC72548AE2426A38C66E12FAD3557FC042D072E31AC106E387",
+          "MatchCount": 0,
+          "KeyCount": 24,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-03 03:35:05 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-02 23:34:52 +0100",
+      "Files": [
+        {
+          "Hash": "2D2AE9593083086D1307271E9C5F66F2D5BF8BFE598DFDD837E3170747AEF052",
+          "MatchCount": 0,
+          "KeyCount": 6,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 23:34:52 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-02 19:34:44 +0100",
+      "Files": [
+        {
+          "Hash": "C61EE99D40C5797A63F0856914BBB96822177F85954F747973924279C30FD9E4",
+          "MatchCount": 0,
+          "KeyCount": 84,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 19:34:44 +0100"
+        },
+        {
+          "Hash": "04F28D8EB9B64D09C9E488CC3FE23315C06A1D76AB5CCFD386B2C7625109E105",
+          "MatchCount": 0,
+          "KeyCount": 38,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 19:34:44 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-02 16:22:41 +0100",
+      "Files": [
+        {
+          "Hash": "24B152C56207081608D6F214D423FCA3E50615983630D2B6E726044DAA1CDD95",
+          "MatchCount": 0,
+          "KeyCount": 73,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 16:22:41 +0100"
+        },
+        {
+          "Hash": "702BE3EA7B227DB9A0A11901A2929154B3C5123F659E8B9A3ABBCB7B35A49A09",
+          "MatchCount": 0,
+          "KeyCount": 71,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 16:22:41 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-02 12:22:34 +0100",
+      "Files": [
+        {
+          "Hash": "4FF0CEDC3BD499AF919BEEF5D397872B4ADCDE6419FF6B78DFD29D1CE46370DB",
+          "MatchCount": 0,
+          "KeyCount": 94,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 12:22:34 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-02 08:22:20 +0100",
+      "Files": [
+        {
+          "Hash": "D30C2313600497F6966F9457D5BE9CC5597F29E36E70BF5B49E38596277DA62D",
+          "MatchCount": 0,
+          "KeyCount": 29,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-02 08:22:20 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-01 23:17:15 +0100",
+      "Files": [
+        {
+          "Hash": "43A65338F65C9FF8344E6E39E1FE4D4A0F1B6697EE2976D7CB2C43C7870964F9",
+          "MatchCount": 0,
+          "KeyCount": 40,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 23:17:15 +0100"
+        },
+        {
+          "Hash": "EB251FA29FDA6EAE2B8B14E3DD1B5165067DF8A930BE52D980FFD935FA919CA2",
+          "MatchCount": 0,
+          "KeyCount": 3,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 23:17:15 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-01 19:15:49 +0100",
+      "Files": [
+        {
+          "Hash": "8F8CFBE0A891C7569A3657ECE9207C29166A25A9D912E5FF1464E02456C982D1",
+          "MatchCount": 0,
+          "KeyCount": 80,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 19:15:49 +0100"
+        },
+        {
+          "Hash": "BD7C8CEAC7D901DF77E15442EAB6D3442605F72CDFFF5C2965331DA656FBB0CA",
+          "MatchCount": 0,
+          "KeyCount": 40,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 19:15:49 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-01 15:14:51 +0100",
+      "Files": [
+        {
+          "Hash": "F93C69C004D06F1D177B515B972F181F5F2DBFDD24660DD27A16A914ECEDEB84",
+          "MatchCount": 0,
+          "KeyCount": 91,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 15:14:51 +0100"
+        },
+        {
+          "Hash": "3CE44B34F4F21D34A991106A5E8F9348791E6688EF4F55119D52F526F0611637",
+          "MatchCount": 0,
+          "KeyCount": 78,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 15:14:51 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-01 11:14:31 +0100",
+      "Files": [
+        {
+          "Hash": "7B1782131C03C8630E0AC0236DBD75F3FDE7807E1BEF4D546E4DE737EDFE9E50",
+          "MatchCount": 0,
+          "KeyCount": 89,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 11:14:31 +0100"
+        },
+        {
+          "Hash": "0C60C5BA7CF813787880805264988EDB64D8F3E9DA61AFE2223C94E3858E36E8",
+          "MatchCount": 0,
+          "KeyCount": 4,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 11:14:31 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-10-01 03:14:03 +0100",
+      "Files": [
+        {
+          "Hash": "CE0FDD160AF1933347E7DFDD9E923F7129F5F085123BACCEA35860C1E309F5A8",
+          "MatchCount": 0,
+          "KeyCount": 56,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-10-01 03:14:03 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-30 21:59:30 +0100",
+      "Files": [
+        {
+          "Hash": "2E131C2010916D786951E75B9296CAE1E71668E6D1FEC1540E44AC6357815C32",
+          "MatchCount": 0,
+          "KeyCount": 58,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 21:59:30 +0100"
+        },
+        {
+          "Hash": "3399469B88269BAC06F24D9AEEF49C84B85BA460A34F35CC9AA585FA1A464213",
+          "MatchCount": 0,
+          "KeyCount": 22,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 21:59:30 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-30 17:58:37 +0100",
+      "Files": [
+        {
+          "Hash": "D1BC91681D3BEB211FEF8539EB22694A85A7FCB68C02006E78D7F8437746F5F1",
+          "MatchCount": 0,
+          "KeyCount": 120,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 17:58:37 +0100"
+        },
+        {
+          "Hash": "65834F7DACE8FC988E2AEED79D4420F34EC4CBA56CFF22D063E070909FEF0DA4",
+          "MatchCount": 0,
+          "KeyCount": 105,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 17:58:37 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-30 13:58:33 +0100",
+      "Files": [
+        {
+          "Hash": "CA11B58AAFE63D1BE698F80E5B5DACAFFA003BB42DB410ECC2F50DE7165BD60D",
+          "MatchCount": 0,
+          "KeyCount": 86,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 13:58:33 +0100"
+        },
+        {
+          "Hash": "A585DD8BA4B12F54BBF24CFFBB5BE839313B28B83358CC8E8AA2298191921E2D",
+          "MatchCount": 0,
+          "KeyCount": 166,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 13:58:33 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-30 09:57:32 +0100",
+      "Files": [
+        {
+          "Hash": "6A2083795290CAE02683096787C2F90809AA74BA90FF64D19E16CF65DB98BC85",
+          "MatchCount": 0,
+          "KeyCount": 14,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 09:57:32 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-30 05:52:18 +0100",
+      "Files": [
+        {
+          "Hash": "D5B292D699C5969BA81DD9B1BA5F1D60849E009DC2F71AD22E115E65BD096996",
+          "MatchCount": 0,
+          "KeyCount": 37,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-30 05:52:18 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-29 22:56:10 +0100",
+      "Files": [
+        {
+          "Hash": "1CD33CF7041315D3C25A7DA560FDD7396FDF3EAA2ECC7257F9CFC883AE210AF1",
+          "MatchCount": 0,
+          "KeyCount": 81,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 22:56:10 +0100"
+        },
+        {
+          "Hash": "218B0094AAE9578C70EA935D6AC89A24F1721C28EC5507E2B27CBEDABBED3959",
+          "MatchCount": 0,
+          "KeyCount": 9,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 22:56:10 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-29 18:55:29 +0100",
+      "Files": [
+        {
+          "Hash": "06C2D4CD4668904DBAB2E85CCC88868FF81B856B701A8E1A31D730FA2996C79B",
+          "MatchCount": 0,
+          "KeyCount": 132,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 18:55:29 +0100"
+        },
+        {
+          "Hash": "E822DE11CA2180BED1C4513A23F2CCBAC8A47A49E788E7DB04BB05E8312CC748",
+          "MatchCount": 0,
+          "KeyCount": 99,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 18:55:29 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-29 14:52:57 +0100",
+      "Files": [
+        {
+          "Hash": "DDCA1372A9F95D6B24F3FF80B9A8686B8C0220F5AD825E49A86EC541D7772878",
+          "MatchCount": 0,
+          "KeyCount": 52,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 14:52:57 +0100"
+        },
+        {
+          "Hash": "510C480B37A96CAE84D25350E725D048903A92DACC9B84019052318FA0D1A175",
+          "MatchCount": 0,
+          "KeyCount": 119,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 14:52:57 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-29 10:52:50 +0100",
+      "Files": [
+        {
+          "Hash": "18498A67B9419A1BC5DFEE75A97BB74E23B0B290E5BDBF0A91D785F925A8B3F5",
+          "MatchCount": 0,
+          "KeyCount": 11,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 10:52:50 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-29 06:52:33 +0100",
+      "Files": [
+        {
+          "Hash": "649F7E212B1040FDB88C3B86EB613EC56C2EA5984F37A66DDDCD68858E335B80",
+          "MatchCount": 0,
+          "KeyCount": 25,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 06:52:33 +0100"
+        },
+        {
+          "Hash": "F6BDC5969790EF4C014B9FDCA16A658E7E62DCE3E8D83B5A9459A1EBAF9717D4",
+          "MatchCount": 0,
+          "KeyCount": 26,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 06:52:33 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-29 01:00:04 +0100",
+      "Files": [
+        {
+          "Hash": "12D500249C3CF7599BF93E937924017DF4E61596F4D8A0D61D14657C6F6B45E4",
+          "MatchCount": 0,
+          "KeyCount": 54,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 01:00:04 +0100"
+        },
+        {
+          "Hash": "D5C54D5F8C1A8E781C96E3344934783E8B58BC7361084EF1DF6E325A42402DD1",
+          "MatchCount": 0,
+          "KeyCount": 107,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 01:00:04 +0100"
+        },
+        {
+          "Hash": "C07685132F23BCB1581B094C1BF2EEC436C61FAE7ACFE384781486BBC748FA09",
+          "MatchCount": 0,
+          "KeyCount": 69,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-29 01:00:04 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-28 20:59:36 +0100",
+      "Files": [
+        {
+          "Hash": "178A8A1CA271FDB27A5C5B607993C800FB19A6F7093914165EBBE48D62FAA1E6",
+          "MatchCount": 0,
+          "KeyCount": 78,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-28 20:59:36 +0100"
+        },
+        {
+          "Hash": "4A9E76D6F9AED4B45A07FD99223B41C2A4AC9B6E3F185FE53B2B8335DCBD8B52",
+          "MatchCount": 0,
+          "KeyCount": 70,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-28 20:59:36 +0100"
+        },
+        {
+          "Hash": "5E05EBFE2DE1D15C8F88867DF0B4F34A3EE0A37B3A78BB29921C9BF82AB2C72D",
+          "MatchCount": 0,
+          "KeyCount": 5,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-28 20:59:36 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-28 08:56:56 +0100",
+      "Files": [
+        {
+          "Hash": "63AE668AF1FF09E928C8DC34D1B86F0A19C62C09C9F475F29AA2A1E9AD2026F6",
+          "MatchCount": 0,
+          "KeyCount": 20,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-28 08:56:56 +0100"
+        },
+        {
+          "Hash": "6FC3005F8033389F021C6F73FC70D3115430BC440F884B0948231F8279F02807",
+          "MatchCount": 0,
+          "KeyCount": 17,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-28 08:56:56 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-27 20:28:32 +0100",
+      "Files": [
+        {
+          "Hash": "B8FA8E5512A5D06271C2F4B6ACC5AEB6ABA35D6523BFE07663899259F3B8995C",
+          "MatchCount": 1,
+          "KeyCount": 76,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-27 20:28:33 +0100"
+        },
+        {
+          "Hash": "075C132003FB902E0AF1D83C25101A20A41CAE10163EFD92FAA9CDE0CDFF7A2D",
+          "MatchCount": 0,
+          "KeyCount": 69,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-27 20:28:32 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-27 16:28:27 +0100",
+      "Files": [
+        {
+          "Hash": "4E34A784A667BFB2BE168C2565082ABB99BDA44E4CC62082FAFAA5B56D3AEFA7",
+          "MatchCount": 0,
+          "KeyCount": 71,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-27 16:28:27 +0100"
+        },
+        {
+          "Hash": "919A8E22A56D8F6ED97156D4951B5AD15655C56982287F031FC4E480A0BD05B4",
+          "MatchCount": 0,
+          "KeyCount": 52,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-27 16:28:27 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-27 11:14:12 +0100",
+      "Files": [
+        {
+          "Hash": "6FC869E2E3EA7C1D06EB4F08C9E91B1B9A45DEBF8DF46E74E360100EB451790B",
+          "MatchCount": 0,
+          "KeyCount": 86,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-27 11:14:12 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-27 03:10:12 +0100",
+      "Files": [
+        {
+          "Hash": "BC675A367754980467E65D8A66672289EBABBD03524BC3E0C2F95A84040FA070",
+          "MatchCount": 0,
+          "KeyCount": 12,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-27 03:10:12 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-26 23:35:26 +0100",
+      "Files": [
+        {
+          "Hash": "FD6FB0EE2310D512D1A32FCFF871B8174DDDFB3777C51B1A57595A46EF132E7E",
+          "MatchCount": 0,
+          "KeyCount": 4,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 23:35:26 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-26 19:34:58 +0100",
+      "Files": [
+        {
+          "Hash": "307753375FE87A977AF815E460390E7D450203EE5FF6AA18795C63E63822441C",
+          "MatchCount": 0,
+          "KeyCount": 57,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 19:34:58 +0100"
+        },
+        {
+          "Hash": "727E756BC38124DD974D9D07C05CA34184911690EAB2BB05C8A8C50CB13D8535",
+          "MatchCount": 0,
+          "KeyCount": 37,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 19:34:58 +0100"
+        },
+        {
+          "Hash": "B77B51B418BA7C1647C5DB90A1E9F57FE6BEF5D119CB59A0614FEB7B322B68C1",
+          "MatchCount": 0,
+          "KeyCount": 4,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 19:34:58 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-26 15:34:35 +0100",
+      "Files": [
+        {
+          "Hash": "73277BA5F0B90EA791CF47222551C7198C1FE23264E40298C9C21458E08DE40C",
+          "MatchCount": 0,
+          "KeyCount": 46,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 15:34:35 +0100"
+        },
+        {
+          "Hash": "D456518D36177853C0EED724FAFFB906112604EE490FDE123F7620A0350D8154",
+          "MatchCount": 0,
+          "KeyCount": 25,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 15:34:35 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-26 11:34:06 +0100",
+      "Files": [
+        {
+          "Hash": "BD2319A5EDF69EB75BAE89E667A0F7BD5D8A61504FFFDFBB1F5F48CCFB1A7771",
+          "MatchCount": 0,
+          "KeyCount": 11,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 11:34:06 +0100"
+        },
+        {
+          "Hash": "0BC6F9C3CADE36022B063856EA8EA89670181C3F47BBF5C3101547990C86D9FD",
+          "MatchCount": 0,
+          "KeyCount": 52,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 11:34:06 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-26 04:34:19 +0100",
+      "Files": [
+        {
+          "Hash": "305A490FCA67436F4CC4FCEFD998D6F41E3A9F7BBEA98F4883A876E1659D86B4",
+          "MatchCount": 0,
+          "KeyCount": 5,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 04:34:19 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-26 00:29:43 +0100",
+      "Files": [
+        {
+          "Hash": "7956846396B63C492F43E023C5976C3A5C36613FB097079C974D0BCE44DBA430",
+          "MatchCount": 0,
+          "KeyCount": 12,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-26 00:29:43 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-25 20:29:25 +0100",
+      "Files": [
+        {
+          "Hash": "C8047C602C6E93F8E7AEB86B335726E49AC3C463B9C63755A6785B6AE9479F58",
+          "MatchCount": 0,
+          "KeyCount": 10,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 20:29:25 +0100"
+        },
+        {
+          "Hash": "6FBC56EF5A824BB059794927183EC87665A8F2D29BDF4928A00BBC470BD8BC40",
+          "MatchCount": 0,
+          "KeyCount": 27,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 20:29:25 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-25 16:29:06 +0100",
+      "Files": [
+        {
+          "Hash": "93EEF39F6EB257DB314F1DB19480A54FFAD148E9A75331D571F817F75654D893",
+          "MatchCount": 0,
+          "KeyCount": 58,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 16:29:06 +0100"
+        },
+        {
+          "Hash": "6DFA330FD9E0DC41BB631355146E916721C00B643C80CDE6A521424EB18994E5",
+          "MatchCount": 0,
+          "KeyCount": 83,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 16:29:06 +0100"
+        },
+        {
+          "Hash": "0A49220D0B561105CAB5098FDAF2B457385ADE521A5C102AA20AC0EC56A2964B",
+          "MatchCount": 0,
+          "KeyCount": 30,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 16:29:06 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-25 06:31:29 +0100",
+      "Files": [
+        {
+          "Hash": "9B155941D95CEE35E64EF877A7AC83E75A341D8450C765CF19641DEA39856005",
+          "MatchCount": 0,
+          "KeyCount": 3,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 06:31:29 +0100"
+        },
+        {
+          "Hash": "CA4ADB5FBB5D58F20B97C88C500A0314654D41EF402C48EC6E2724E51AD2A63C",
+          "MatchCount": 0,
+          "KeyCount": 3,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 06:31:29 +0100"
+        },
+        {
+          "Hash": "AB7136AF0B048353D17CD3E3EB426D74F4D67D4617193BB40DAF4AAB18BFB799",
+          "MatchCount": 0,
+          "KeyCount": 4,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 06:31:29 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-25 02:31:22 +0100",
+      "Files": [
+        {
+          "Hash": "7EC258C3CB5B11ED94C8BB9961843EE37E5E51604E7A33E66A274D6821675CBD",
+          "MatchCount": 0,
+          "KeyCount": 5,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 02:31:22 +0100"
+        },
+        {
+          "Hash": "65BF2CA92370DB37CA5E2262D6B70AE02A37DA9D039DE118AAEF046FD22ECE61",
+          "MatchCount": 0,
+          "KeyCount": 30,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 02:31:22 +0100"
+        },
+        {
+          "Hash": "FA5C8CD62521904C749531384FEA845506BEB0C216346B2EB92B56A2856E36AA",
+          "MatchCount": 0,
+          "KeyCount": 61,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-25 02:31:22 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-24 22:18:50 +0100",
+      "Files": [
+        {
+          "Hash": "32D421EFB0CB211B4083722AC3E3611223F351E1491C786C607044F5FA88964D",
+          "MatchCount": 0,
+          "KeyCount": 56,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-24 22:18:50 +0100"
+        },
+        {
+          "Hash": "04C673819FCB823618A514DFE0DC97459C82CC7690776AF7AFF716BF2D0B982D",
+          "MatchCount": 0,
+          "KeyCount": 82,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-24 22:18:50 +0100"
+        },
+        {
+          "Hash": "F79A607908437AC8E931529BB14A441EBEE93FB8AB66FAA368A4A07EC4304547",
+          "MatchCount": 0,
+          "KeyCount": 35,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-24 22:18:50 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-24 05:26:11 +0100",
+      "Files": [
+        {
+          "Hash": "DB5D79CA843A4F83A54797122C4C2F6CF9AF521DBFFAFBBA69949DFF7EEBA804",
+          "MatchCount": 0,
+          "KeyCount": 7,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-24 05:26:11 +0100"
+        },
+        {
+          "Hash": "62FA625780B1BD8F621E324E231757B2C7E16E39365019580B291D5457B51165",
+          "MatchCount": 0,
+          "KeyCount": 1,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-24 05:26:11 +0100"
+        },
+        {
+          "Hash": "9FB465F43BB6B42D36D0C86A6963F49453D5F385442ABB0DE5D47C60637AC56F",
+          "MatchCount": 0,
+          "KeyCount": 10,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-24 05:26:11 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-23 18:00:34 +0100",
+      "Files": [
+        {
+          "Hash": "CC1BA53339D3CCDB33E6C3E93DF811AC571F246074DD5ACAF3694D6AAD2EB041",
+          "MatchCount": 0,
+          "KeyCount": 46,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-23 18:00:34 +0100"
+        },
+        {
+          "Hash": "74F7491FA537089941ACF311B98CA345877F67D0AE58E4B32854E447E4AFFFDB",
+          "MatchCount": 0,
+          "KeyCount": 66,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-23 18:00:34 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-23 13:12:10 +0100",
+      "Files": [
+        {
+          "Hash": "0F090DC946094E491AD7240F2B3E612E948827E5A45154B30C57FBE4A03E4071",
+          "MatchCount": 0,
+          "KeyCount": 58,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-23 13:12:10 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-23 00:09:23 +0100",
+      "Files": [
+        {
+          "Hash": "C6B38FEAEF5775E019053CAD68E0858B6D7712E9B57AD88C8524804B93C3B058",
+          "MatchCount": 0,
+          "KeyCount": 4,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-23 00:09:23 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-22 20:08:22 +0100",
+      "Files": [
+        {
+          "Hash": "CE267E26D670497BC20E984A136B37EC48ED88D10FAA9C00A8086EE16C3FCCF5",
+          "MatchCount": 0,
+          "KeyCount": 42,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 20:08:22 +0100"
+        },
+        {
+          "Hash": "B7A69A1A3FE3DA3567A7F27638B21BF2FF76B479C6A45C53A35C8470871B5483",
+          "MatchCount": 0,
+          "KeyCount": 40,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 20:08:22 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-22 16:08:18 +0100",
+      "Files": [
+        {
+          "Hash": "41CF313083B5F8B0D53985D351B1AB9FA1D789AD68E1E2F3CAC2EB1F29DF7883",
+          "MatchCount": 0,
+          "KeyCount": 24,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 16:08:18 +0100"
+        },
+        {
+          "Hash": "95AB6EE12534E0A07FC684EBF6CBDA8F11A9C1D986C837B44C124EF23C29774C",
+          "MatchCount": 0,
+          "KeyCount": 63,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 16:08:18 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-22 12:08:10 +0100",
+      "Files": [
+        {
+          "Hash": "094791D4EC4390E7E3A0CC5DB4469A28D866E947A8339C52B4AC6535BFC7009D",
+          "MatchCount": 0,
+          "KeyCount": 35,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 12:08:10 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-22 04:03:51 +0100",
+      "Files": [
+        {
+          "Hash": "AECB09D9BAA80AF8C26F6F04661892B1061227EA5AAE87767F9941A83EF61D3A",
+          "MatchCount": 0,
+          "KeyCount": 1,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 04:03:51 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-22 00:01:34 +0100",
+      "Files": [
+        {
+          "Hash": "084F40872CF57736BE1BAA3E886DC192C76DE67D7A37C19041B3E81B7E6B3D71",
+          "MatchCount": 0,
+          "KeyCount": 4,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-22 00:01:34 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-21 20:01:32 +0100",
+      "Files": [
+        {
+          "Hash": "803BC6176B54871989B6E0B06E55DBAEB8CAF2AE78F5962006BAF898C9EF6140",
+          "MatchCount": 0,
+          "KeyCount": 16,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-21 20:01:32 +0100"
+        },
+        {
+          "Hash": "0B22B68BED2B46AFD6C988921FB6D7DDB6CC1DBA2A1FF0AC9D1EB56632F1A4BC",
+          "MatchCount": 0,
+          "KeyCount": 48,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-21 20:01:32 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    }
+  ],
+  "DeviceProductType": "iPhone10,6"
+}

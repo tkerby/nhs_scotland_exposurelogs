@@ -1,0 +1,60 @@
+{
+  "Build": "17H35",
+  "ExportVersion": 2,
+  "ExposureChecks": [
+    {
+      "Timestamp": "2020-09-12 01:22:31 +0100",
+      "Files": [
+        {
+          "Hash": "0607709ABE307826D0A60FC438C25C5FAD157CC2A1A86530107773A450E7B365",
+          "MatchCount": 0,
+          "KeyCount": 2,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-12 01:22:31 +0100"
+        },
+        {
+          "Hash": "927E5CD2A2214D5DDE5F26196F08C568EBB6265B597D8FF0103ADAD7FF2D1D51",
+          "MatchCount": 0,
+          "KeyCount": 1,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-12 01:22:31 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-11 17:20:27 +0100",
+      "Files": [
+        {
+          "Hash": "DD89D2BABC840716459466D776EBBD8C178B11916584164D675AE311D8A2056E",
+          "MatchCount": 0,
+          "KeyCount": 1,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-11 17:20:27 +0100"
+        },
+        {
+          "Hash": "2D0D2F2E341514B7CA272B34E25FFA8B08ECBD4C1A06AEE88738F766AA1ECE3B",
+          "MatchCount": 0,
+          "KeyCount": 2,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-11 17:20:27 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    },
+    {
+      "Timestamp": "2020-09-11 13:20:04 +0100",
+      "Files": [
+        {
+          "Hash": "2BD52AB1B3B11E9F28B840E832A852676FF6F362746BA4CB36956C6BEAC594F1",
+          "MatchCount": 0,
+          "KeyCount": 2,
+          "AppBundleIdentifier": "gov.scot.covidtracker",
+          "Timestamp": "2020-09-11 13:20:04 +0100"
+        }
+      ],
+      "AppBundleIdentifier": "gov.scot.covidtracker"
+    }
+  ],
+  "DeviceProductType": "iPhone10,6"
+}
